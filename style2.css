@@ -1,0 +1,223 @@
+<style>
+        button{
+        cursor: pointer;
+        font-weight: bold;
+            font-size: large;
+            font-style:normal;
+    
+        }
+        button:hover{
+            opacity: 0.7;
+        }
+        button:active{
+    background-color:pink;
+}
+
+
+        .header{
+            color:rgb(59, 59, 169);
+            text-align: center;
+
+        }
+        #coheader{
+            color:black;
+            text-align: center;
+        }
+        body{
+            background-image: url('./bkg/vector-geometric-background-can-be-used-cover-design-book-design-website-background-cd-cover-advertising-white-marble-108156913.jpg');
+        }
+
+        .navigation_div{
+
+                width: 100%;
+                
+                text-align: center;
+                background-color:yellow;
+                position:sticky;
+                top: 0%;
+                
+            
+
+                }
+                .navigation{
+                    width: 5%;
+                    border:none;
+                    background-color:yellow;
+                    margin-right: 5%;
+                    margin-left: 8%;
+
+
+                }
+                .about{
+                   width: 40%;
+                    /* display:flex; */
+                    /* justify-content: center; */
+                    /* display: flex;
+                    flex-direction: row;
+                    justify-content: center; */
+                    line-height: 25px;
+                    background-color: pink;
+                    display: inline-block;
+                    margin-right;
+                   
+                        
+                }
+               .photo_div{
+                width: 20%;
+                display: inline-block;
+                vertical-align:top;
+            
+                margin-left: 20%;
+              
+                
+               }
+                .photo{
+                    width: 80%;
+                    border-radius: 50%;
+                }
+                .jnv_div{
+                    width: 15%;
+                    
+                    display: inline-block;
+                    /* background-color: pink; */
+                    margin-right: 15%;
+                    margin-left: 15%;
+                }
+                .jnv{
+                    width: 100%;
+                    border-radius: 20%;
+
+
+                }
+                #home_id{
+                    margin-left: 0%;
+                }
+                .jnv_text{
+                   text-align: center;
+                }
+                .manit_div{
+                    width: 25%;
+                    display: inline-block;
+                    /* background-color: pink; */
+                    vertical-align: top;
+
+                }
+                .manit{
+                    width: 80%;
+
+                }
+                .manit_text{
+                    text-align: center;
+                }
+                .c_div{
+                    width: 15%;
+                    /* background-color: pink; */
+                    display: inline-block;
+                    margin-left: 20%;
+                    margin-right: 5%;
+                }
+                .c{
+                    width: 100%;
+                   
+                }
+                .cpp_div{
+                    width: 15%;
+                    display: inline-block;
+                    /* background-color: pink; */
+                    margin-right: 5%;
+                }
+                .cpp{
+                    width: 100%;
+                }
+                .psolve_div{
+                    width: 15%;
+                    display: inline-block;
+                    vertical-align: top;
+                    vertical-align:top;
+                    margin-top: 3%;
+                    /* background-color: pink; */
+                }
+                .psolve{
+                    width: 100%;
+                }
+                .ambedkar_div{
+                    width: 30%;
+                    /* background-color: pink; */
+                    display: inline-block;
+                    margin-left: 15%;
+                    margin-right: 15%;
+
+                }
+                .ambedkar{
+                    width: 100%;
+                   
+                }
+                .modi_div{
+                    width: 28%;
+                    display: inline-block;
+                    /* background-color: pink; */
+                    vertical-align: top;
+                }
+                .modi{
+                    width: 100%;
+                }
+               
+       
+                .github_div{
+                    width: 10%;
+
+                    /* background-color: pink; */
+                    display: inline-block;
+                    margin-left: 30%;
+                    vertical-align: top;
+                    margin-right: 3%;
+                    margin-top: 10%;
+                    
+
+                }
+                .github{
+                    width: 100%;
+                    
+                }
+                .linkedin_div{
+                    width: 10%;
+                    /* background-color: pink; */
+                    display: inline-block;
+                    vertical-align: top;
+                    margin-right: 2%;
+                    margin-top: 10%;
+
+                }
+                .linkedin{
+                    width: 70%;
+
+                }
+        
+                .codechef_div{
+                    width: 10%;
+
+                    vertical-align: top;
+                    /* background-color: pink; */
+                    display: inline-block;
+                    margin-top: 10%;
+
+
+                }
+                .codechef{
+                    width: 70%;
+
+                }
+        
+                .codeforces_div{
+                    width: 10%;
+                    vertical-align: top;
+                    margin-top: 10%;
+
+                    /* background-color: pink; */
+                    display: inline-block;
+
+                }
+                .codeforces{
+                    width: 100%;
+                }
+                </style>

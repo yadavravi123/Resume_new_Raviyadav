@@ -24,6 +24,7 @@
             text-align: center;
         }
         body{
+            font-size: large;
             background-image: url('./bkg/vector-geometric-background-can-be-used-cover-design-book-design-website-background-cd-cover-advertising-white-marble-108156913.jpg');
         }
 
@@ -32,7 +33,7 @@
                 width: 100%;
                 
                 text-align: center;
-                background-color:yellow;
+                background-color:grey;
                 position:sticky;
                 top: 0%;
                 
@@ -42,7 +43,7 @@
                 .navigation{
                     width: 5%;
                     border:none;
-                    background-color:yellow;
+                    background-color:grey;
                     margin-right: 5%;
                     margin-left: 8%;
 
@@ -56,7 +57,8 @@
                     flex-direction: row;
                     justify-content: center; */
                     line-height: 25px;
-                    background-color: pink;
+                    background-color: maroon;
+                    color: white;
                     display: inline-block;
                     margin-right;
                    

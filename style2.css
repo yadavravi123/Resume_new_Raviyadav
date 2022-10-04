@@ -42,9 +42,10 @@
                 .navigation{
                     width: 5%;
                     border:none;
-                    background-color:yellow;
+                    background-color:black;
                     margin-right: 5%;
                     margin-left: 8%;
+                    color: white;    
 
 
                 }

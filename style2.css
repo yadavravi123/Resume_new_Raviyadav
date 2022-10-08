@@ -32,7 +32,7 @@
                 width: 100%;
                 
                 text-align: center;
-                background-color:yellow;
+                background-color:black;
                 position:sticky;
                 top: 0%;
                 
@@ -42,9 +42,10 @@
                 .navigation{
                     width: 5%;
                     border:none;
-                    background-color:yellow;
+                    background-color:black;
                     margin-right: 5%;
                     margin-left: 8%;
+                    color: white;    
 
 
                 }
@@ -56,7 +57,7 @@
                     flex-direction: row;
                     justify-content: center; */
                     line-height: 25px;
-                    background-color: pink;
+                    background-color: #cbd1d2;
                     display: inline-block;
                     margin-right;
                    

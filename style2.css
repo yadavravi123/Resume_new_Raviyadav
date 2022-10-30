@@ -15,22 +15,24 @@
 
 
         .header{
-            color:rgb(59, 59, 169);
+            color:aquamarine;
             text-align: center;
 
         }
         #coheader{
-            color:black;
+            color:wheat;
             text-align: center;
         }
         body{
-            background-image: url('./bkg/vector-geometric-background-can-be-used-cover-design-book-design-website-background-cd-cover-advertising-white-marble-108156913.jpg');
+            background-image: url('https://media.istockphoto.com/vectors/studio-room-in-dark-blue-background-with-copy-spaceluxury-gallery-vector-id1326304939?k=20&m=1326304939&s=612x612&w=0&h=XK9D-KMpzslC2RXLYhLU0H0GsBS00RHtecHJOlZIh0U=');
+            background-repeat: no-repeat;
+            background-size: cover;
         }
 
         .navigation_div{
 
                 width: 100%;
-                
+                padding: 15px;
                 text-align: center;
                 background-color:black;
                 position:sticky;
@@ -57,9 +59,13 @@
                     flex-direction: row;
                     justify-content: center; */
                     line-height: 25px;
-                    background-color: #cbd1d2;
+                    background-color:blanchedalmond;
                     display: inline-block;
-                    margin-right;
+                    /* margin-right; */
+                    border-radius:20px ;
+                    padding: 10px;
+                    margin: 20px;
+                    /* color:wheat; */
                    
                         
                 }
@@ -95,6 +101,8 @@
                 }
                 .jnv_text{
                    text-align: center;
+                   color: aliceblue;
+
                 }
                 .manit_div{
                     width: 25%;
@@ -109,6 +117,7 @@
                 }
                 .manit_text{
                     text-align: center;
+                    color: aliceblue;
                 }
                 .c_div{
                     width: 15%;
@@ -193,6 +202,7 @@
                     width: 70%;
 
                 }
+
         
                 .codechef_div{
                     width: 10%;
@@ -220,5 +230,22 @@
                 }
                 .codeforces{
                     width: 100%;
+                }
+                #about_{
+                    color: wheat;
+                }
+                #jnv_div_{
+                    color: wheat;
+                }
+                #c_div_{
+                    color: wheat;
+                }
+                #int{
+                    color: wheat;
+                }
+                #last{
+                    color:aliceblue;
+                    font-size: 30px;
+
                 }
                 </style>
